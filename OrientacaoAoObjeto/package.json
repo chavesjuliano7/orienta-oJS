@@ -1,0 +1,12 @@
+{
+  "name": "bybank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para sues clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliano",
+  "license": "ISC",
+  "type": "module"
+}
